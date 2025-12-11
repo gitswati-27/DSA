@@ -1,0 +1,121 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+class Node{
+public: 
+    int data;
+    Node *next;
+    Node(int data){
+        this->data = data;
+        this->next = nullptr;
+    }
+};
+
+Node *head;
+
+void printList(Node *head){
+    Node *temp = head;
+    while(temp!=nullptr){
+        cout<<temp->data<<" ";
+        temp = temp->next;
+    }
+    cout<<"\n";
+}
+
+void begInsert(Node *&head, int data){
+    Node *temp = new Node(data);
+    if(head==nullptr){
+        head = temp;
+        return;
+    }
+    temp->next = head;
+    //head->next = temp;
+    head = temp;
+    cout<<"\nChing! Inserted at front\n";
+}
+
+void endInsert(Node *&head, int data){
+    Node *newNode = new Node(data);
+    if(head==nullptr){
+        head = newNode;
+        return;
+    }
+    Node *temp;
+    while(temp->next!=nullptr){
+        temp = temp->next;
+    }
+    temp->next = newNode;
+    cout<<"\nChing! Inserted at last\n";
+}
+
+void posInsert(Node *&head, int data, int pos){
+    if(pos==0){
+        begInsert(head, data);
+        return;
+    }
+    Node *newNode = new Node(data);
+    Node *temp= head;
+    int curr=1;
+    while(curr<pos-1){
+        temp = temp->next;
+        curr++;
+    }
+    newNode->next = temp->next;
+    temp->next = newNode;
+}
+
+void begDelete(Node *&head){
+    if(head==nullptr) return;
+    Node *sagarika = head;
+    head = head->next;
+    delete sagarika;
+}
+
+void endDelete(Node *&head){
+    Node *temp = head;
+    while(temp->next->next!=nullptr){
+        temp = temp->next;
+    }
+    Node *sagarika = temp->next;
+    temp->next = nullptr;
+    delete sagarika;
+}
+
+void posDelete(Node *&head, int pos){
+    if(pos==1){
+        begDelete(head);
+        return;
+    }
+    Node *temp = head;
+    int curr = 1;
+    while(curr<pos-1){
+        temp = temp->next;
+        curr++;
+    }
+    Node *sagarika = temp->next;
+    temp->next = temp->next->next;
+    delete sagarika;
+}
+
+int main(){
+    Node *x = new Node(10);
+    Node *y = new Node(20);
+    Node *z = new Node(30);
+    head = x;
+    x->next = y;
+    y->next = z;
+    printList(head);
+    begInsert(head, 40);
+    printList(head);
+    endInsert(head, 50);
+    printList(head);
+    posInsert(head, 25, 4);
+    posInsert(head, 35, 6);
+    printList(head);
+    begDelete(head);
+    printList(head);
+    endDelete(head);
+    printList(head);
+    posDelete(head, 3);
+    printList(head);
+}
