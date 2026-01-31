@@ -11,18 +11,15 @@
  */
 class Solution {
 public:
+    void recursive_pre(vector<int>& ans, TreeNode* root){
+        if(root==nullptr) return;
+        ans.push_back(root->val);
+        recursive_pre(ans,root->left);
+        recursive_pre(ans,root->right);
+    }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        if(root==nullptr) return ans;
-        stack<TreeNode*> st;
-        st.push(root);
-        while(!st.empty()){
-            TreeNode* node = st.top();
-            st.pop();
-            if(node->right!=nullptr) st.push(node->right);
-            if(node->left !=nullptr) st.push(node->left);
-            ans.push_back(node->val);
-        }
+        recursive_pre(ans, root);
         return ans;
     }
 };
