@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/gitswati-27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/gitswati-27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
 | ------- |
@@ -71,5 +72,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/gitswati-27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/gitswati-27/DSA/tree/master/3640-trionic-array-ii) |
+## String
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/gitswati-27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
