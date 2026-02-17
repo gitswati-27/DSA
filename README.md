@@ -121,8 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gitswati-27/DSA/tree/master/0067-add-binary) |
+| [0401-binary-watch](https://github.com/gitswati-27/DSA/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gitswati-27/DSA/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/gitswati-27/DSA/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
