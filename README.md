@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/gitswati-27/DSA/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/gitswati-27/DSA/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gitswati-27/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Enumeration
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/gitswati-27/DSA/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/gitswati-27/DSA/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gitswati-27/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
