@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/gitswati-27/DSA/tree/master/1200-minimum-absolute-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gitswati-27/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Math
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/gitswati-27/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gitswati-27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gitswati-27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/gitswati-27/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3713-longest-balanced-substring-i](https://github.com/gitswati-27/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gitswati-27/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
