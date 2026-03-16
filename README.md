@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gitswati-27/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gitswati-27/DSA/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/gitswati-27/DSA/tree/master/0212-word-search-ii) |
 | [1200-minimum-absolute-difference](https://github.com/gitswati-27/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gitswati-27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/gitswati-27/DSA/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gitswati-27/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/gitswati-27/DSA/tree/master/0437-path-sum-iii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/gitswati-27/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitswati-27/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/gitswati-27/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/gitswati-27/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gitswati-27/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/gitswati-27/DSA/tree/master/0212-word-search-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gitswati-27/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Design
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gitswati-27/DSA/tree/master/0200-number-of-islands) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gitswati-27/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
