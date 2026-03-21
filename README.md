@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gitswati-27/DSA/tree/master/0053-maximum-subarray) |
 | [0200-number-of-islands](https://github.com/gitswati-27/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gitswati-27/DSA/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/gitswati-27/DSA/tree/master/0212-word-search-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gitswati-27/DSA/tree/master/0053-maximum-subarray) |
 | [0799-champagne-tower](https://github.com/gitswati-27/DSA/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gitswati-27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gitswati-27/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gitswati-27/DSA/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/gitswati-27/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
