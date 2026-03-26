@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gitswati-27/DSA/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/gitswati-27/DSA/tree/master/0212-word-search-ii) |
 | [0303-range-sum-query-immutable](https://github.com/gitswati-27/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
 | [1200-minimum-absolute-difference](https://github.com/gitswati-27/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gitswati-27/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gitswati-27/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gitswati-27/DSA/tree/master/0053-maximum-subarray) |
+| [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/gitswati-27/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/gitswati-27/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gitswati-27/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/gitswati-27/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Recursion
 |  |
 | ------- |
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/gitswati-27/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
