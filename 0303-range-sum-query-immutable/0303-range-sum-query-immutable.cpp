@@ -1,17 +1,35 @@
 class NumArray {
 public:
-//PREFIX SUM 
-    vector<int> prefix;
+//SEGMENT TREE IMPLEMENTATION (ARRAYS ARE PREFERRED)
+    vector<int> st;
+    int n;
     NumArray(vector<int>& nums) {
-        prefix.push_back(nums[0]);
-        for(int i=1;i<nums.size();i++) {
-            prefix.push_back(nums[i]+prefix[i-1]);
-        }
+        n = nums.size();
+        st.resize(4*n);
+        buildTree(0,0,n-1,nums);
     }
     
+    void buildTree(int i, int l, int r, vector<int>& nums){
+        if(l==r){
+            st[i] = nums[r];
+            return;
+        }
+        int mid = (l+r)/2;
+        buildTree(2*i + 1, l, mid, nums);
+        buildTree(2*i + 2, mid+1, r, nums);
+        st[i] = st[2*i+1] + st[2*i + 2];
+    }
+
+    int query(int i, int l, int r, int ql, int qr){
+        if(r<ql || l>qr) return 0;
+        if(ql<=l && r<=qr) return st[i];
+
+        int mid = (l+r)/2;
+        return query(2*i + 1,l,mid,ql,qr) + query(2*i + 2,mid+1,r,ql,qr);
+    }
+
     int sumRange(int left, int right) {
-        if(left==0) return prefix[right];
-        return prefix[right]-prefix[left-1];
+        return query(0,0,n-1,left,right);
     }
 };
 
