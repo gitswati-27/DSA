@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/gitswati-27/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gitswati-27/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3033-modify-the-matrix](https://github.com/gitswati-27/DSA/tree/master/3033-modify-the-matrix) |
+| [3248-snake-in-matrix](https://github.com/gitswati-27/DSA/tree/master/3248-snake-in-matrix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gitswati-27/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gitswati-27/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gitswati-27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/gitswati-27/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/gitswati-27/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gitswati-27/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3248-snake-in-matrix](https://github.com/gitswati-27/DSA/tree/master/3248-snake-in-matrix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gitswati-27/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/gitswati-27/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gitswati-27/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gitswati-27/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gitswati-27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3248-snake-in-matrix](https://github.com/gitswati-27/DSA/tree/master/3248-snake-in-matrix) |
 ## Backtracking
 |  |
 | ------- |
