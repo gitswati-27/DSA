@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gitswati-27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/gitswati-27/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gitswati-27/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3033-modify-the-matrix](https://github.com/gitswati-27/DSA/tree/master/3033-modify-the-matrix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gitswati-27/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gitswati-27/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gitswati-27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gitswati-27/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gitswati-27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/gitswati-27/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [3033-modify-the-matrix](https://github.com/gitswati-27/DSA/tree/master/3033-modify-the-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gitswati-27/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gitswati-27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gitswati-27/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
