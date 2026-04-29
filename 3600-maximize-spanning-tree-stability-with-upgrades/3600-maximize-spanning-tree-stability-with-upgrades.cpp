@@ -11,7 +11,7 @@ public:
 
         components--;
         if(size[pu] > size[pv]){
-            size[pu] += size[pv];
+            size[pu] -= size[pv];
             parent[pv] = pu;
         }
         else{
