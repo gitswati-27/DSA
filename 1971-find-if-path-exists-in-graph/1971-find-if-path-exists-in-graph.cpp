@@ -4,7 +4,7 @@ public:
         vector<vector<int>> adj(n);
         for(auto &e : edges){
             adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]); //undirected graph so both edges are considered
+            adj[e[1]].push_back(e[0]);
         }
 
         vector<bool> visited(n, false);
