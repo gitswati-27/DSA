@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/gitswati-27/DSA/tree/master/0212-word-search-ii) |
 | [0303-range-sum-query-immutable](https://github.com/gitswati-27/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/gitswati-27/DSA/tree/master/0322-coin-change) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gitswati-27/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1200-minimum-absolute-difference](https://github.com/gitswati-27/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gitswati-27/DSA/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/gitswati-27/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gitswati-27/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gitswati-27/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3719-longest-balanced-subarray-i](https://github.com/gitswati-27/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## String Matching
 |  |
 | ------- |
@@ -339,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gitswati-27/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
