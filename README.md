@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/gitswati-27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/gitswati-27/DSA/tree/master/0155-min-stack) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gitswati-27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/gitswati-27/DSA/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gitswati-27/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/gitswati-27/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
