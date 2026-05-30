@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gitswati-27/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gitswati-27/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gitswati-27/DSA/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/gitswati-27/DSA/tree/master/0152-maximum-product-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gitswati-27/DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gitswati-27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/gitswati-27/DSA/tree/master/0155-min-stack) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gitswati-27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gitswati-27/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gitswati-27/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gitswati-27/DSA/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/gitswati-27/DSA/tree/master/0152-maximum-product-subarray) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gitswati-27/DSA/tree/master/0042-trapping-rain-water) |
 | [0696-count-binary-substrings](https://github.com/gitswati-27/DSA/tree/master/0696-count-binary-substrings) |
 ## Rolling Hash
 |  |
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gitswati-27/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
