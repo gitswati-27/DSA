@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gitswati-27/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gitswati-27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/gitswati-27/DSA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2104-sum-of-subarray-ranges](https://github.com/gitswati-27/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2418-sort-the-people](https://github.com/gitswati-27/DSA/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gitswati-27/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/gitswati-27/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gitswati-27/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/gitswati-27/DSA/tree/master/0155-min-stack) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/gitswati-27/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2104-sum-of-subarray-ranges](https://github.com/gitswati-27/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -376,4 +378,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gitswati-27/DSA/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/gitswati-27/DSA/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
