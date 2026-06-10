@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/gitswati-27/DSA/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gitswati-27/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/gitswati-27/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gitswati-27/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gitswati-27/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3033-modify-the-matrix](https://github.com/gitswati-27/DSA/tree/master/3033-modify-the-matrix) |
 | [3248-snake-in-matrix](https://github.com/gitswati-27/DSA/tree/master/3248-snake-in-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gitswati-27/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gitswati-27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gitswati-27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gitswati-27/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gitswati-27/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Enumeration
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gitswati-27/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gitswati-27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/gitswati-27/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gitswati-27/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3248-snake-in-matrix](https://github.com/gitswati-27/DSA/tree/master/3248-snake-in-matrix) |
 ## Backtracking
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gitswati-27/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gitswati-27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/gitswati-27/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gitswati-27/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3033-modify-the-matrix](https://github.com/gitswati-27/DSA/tree/master/3033-modify-the-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gitswati-27/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gitswati-27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
