@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/gitswati-27/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gitswati-27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gitswati-27/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitswati-27/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3637-trionic-array-i](https://github.com/gitswati-27/DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/gitswati-27/DSA/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/gitswati-27/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/gitswati-27/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gitswati-27/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gitswati-27/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitswati-27/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/gitswati-27/DSA/tree/master/2418-sort-the-people) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gitswati-27/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gitswati-27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitswati-27/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3713-longest-balanced-substring-i](https://github.com/gitswati-27/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gitswati-27/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gitswati-27/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gitswati-27/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gitswati-27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitswati-27/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/gitswati-27/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gitswati-27/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gitswati-27/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gitswati-27/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Design
 |  |
 | ------- |
