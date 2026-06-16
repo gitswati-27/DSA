@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/gitswati-27/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/gitswati-27/DSA/tree/master/0322-coin-change) |
+| [0391-perfect-rectangle](https://github.com/gitswati-27/DSA/tree/master/0391-perfect-rectangle) |
 | [0496-next-greater-element-i](https://github.com/gitswati-27/DSA/tree/master/0496-next-greater-element-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gitswati-27/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/gitswati-27/DSA/tree/master/0735-asteroid-collision) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gitswati-27/DSA/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/gitswati-27/DSA/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/gitswati-27/DSA/tree/master/0204-count-primes) |
+| [0391-perfect-rectangle](https://github.com/gitswati-27/DSA/tree/master/0391-perfect-rectangle) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gitswati-27/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gitswati-27/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gitswati-27/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/gitswati-27/DSA/tree/master/0391-perfect-rectangle) |
 | [0496-next-greater-element-i](https://github.com/gitswati-27/DSA/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gitswati-27/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -393,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gitswati-27/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/gitswati-27/DSA/tree/master/0496-next-greater-element-i) |
 | [2104-sum-of-subarray-ranges](https://github.com/gitswati-27/DSA/tree/master/2104-sum-of-subarray-ranges) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/gitswati-27/DSA/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/gitswati-27/DSA/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
