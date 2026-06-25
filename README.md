@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gitswati-27/DSA/tree/master/0496-next-greater-element-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gitswati-27/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/gitswati-27/DSA/tree/master/0735-asteroid-collision) |
+| [1020-number-of-enclaves](https://github.com/gitswati-27/DSA/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/gitswati-27/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gitswati-27/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gitswati-27/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gitswati-27/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/gitswati-27/DSA/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/gitswati-27/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gitswati-27/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gitswati-27/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/gitswati-27/DSA/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/gitswati-27/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gitswati-27/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gitswati-27/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/gitswati-27/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/gitswati-27/DSA/tree/master/0212-word-search-ii) |
+| [1020-number-of-enclaves](https://github.com/gitswati-27/DSA/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gitswati-27/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gitswati-27/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gitswati-27/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gitswati-27/DSA/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/gitswati-27/DSA/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/gitswati-27/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gitswati-27/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/gitswati-27/DSA/tree/master/2573-find-the-string-with-lcp) |
