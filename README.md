@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gitswati-27/DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/gitswati-27/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/gitswati-27/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/gitswati-27/DSA/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/gitswati-27/DSA/tree/master/0152-maximum-product-subarray) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/gitswati-27/DSA/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/gitswati-27/DSA/tree/master/0067-add-binary) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gitswati-27/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gitswati-27/DSA/tree/master/0212-word-search-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/gitswati-27/DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/gitswati-27/DSA/tree/master/0055-jump-game) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gitswati-27/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/gitswati-27/DSA/tree/master/0044-wildcard-matching) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/gitswati-27/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
