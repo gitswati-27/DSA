@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/gitswati-27/DSA/tree/master/0322-coin-change) |
 | [0391-perfect-rectangle](https://github.com/gitswati-27/DSA/tree/master/0391-perfect-rectangle) |
 | [0496-next-greater-element-i](https://github.com/gitswati-27/DSA/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/gitswati-27/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gitswati-27/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/gitswati-27/DSA/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/gitswati-27/DSA/tree/master/0994-rotting-oranges) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gitswati-27/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/gitswati-27/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gitswati-27/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/gitswati-27/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/gitswati-27/DSA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
