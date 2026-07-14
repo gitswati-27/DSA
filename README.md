@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/gitswati-27/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gitswati-27/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0126-word-ladder-ii](https://github.com/gitswati-27/DSA/tree/master/0126-word-ladder-ii) |
 | [0200-number-of-islands](https://github.com/gitswati-27/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/gitswati-27/DSA/tree/master/0322-coin-change) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gitswati-27/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/gitswati-27/DSA/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/gitswati-27/DSA/tree/master/0067-add-binary) |
+| [0126-word-ladder-ii](https://github.com/gitswati-27/DSA/tree/master/0126-word-ladder-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gitswati-27/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gitswati-27/DSA/tree/master/0212-word-search-ii) |
 | [0696-count-binary-substrings](https://github.com/gitswati-27/DSA/tree/master/0696-count-binary-substrings) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gitswati-27/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0126-word-ladder-ii](https://github.com/gitswati-27/DSA/tree/master/0126-word-ladder-ii) |
 | [0391-perfect-rectangle](https://github.com/gitswati-27/DSA/tree/master/0391-perfect-rectangle) |
 | [0496-next-greater-element-i](https://github.com/gitswati-27/DSA/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gitswati-27/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/gitswati-27/DSA/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/gitswati-27/DSA/tree/master/0212-word-search-ii) |
 | [0401-binary-watch](https://github.com/gitswati-27/DSA/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/gitswati-27/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
